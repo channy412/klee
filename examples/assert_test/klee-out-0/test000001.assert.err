@@ -1,0 +1,7 @@
+Error: ASSERTION FAIL: 0
+File: assert_test.c
+Line: 7
+assembly.ll line: 22
+Stack: 
+	#000000022 in assert_tester (i) at assert_test.c:7
+	#100000045 in main () at assert_test.c:15
